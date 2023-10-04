@@ -1,0 +1,14 @@
+body{background-color:darkred;
+	color: darkblue;
+	font-family:"Courier New" ;
+
+}
+h1,h2{
+	font-family: "Brush Script MT" ;
+}
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+}
